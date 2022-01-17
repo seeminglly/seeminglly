@@ -1,5 +1,15 @@
-### Hi there 👋
+<img src = "https://user-images.githubusercontent.com/80025304/149776260-d35134cf-9006-4009-a77f-71c757c97cab.jpg"/>
+  
+ ## 💻STUDYING💻
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-BDBDBD?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
+### 👤SEMIN KANG
+<a href="https://www.instagram.com/smiwadler/"><img src="https://img.shields.io/badge/INSTA-smiwadler-pink"/></a>
+<img src = "https://img.shields.io/badge/VELOG-seeminglly-purple"/>
 
+
+  
+  
 <!--
 **seeminglly/seeminglly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
