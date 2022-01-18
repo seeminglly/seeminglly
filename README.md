@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/C++-BDBDBD?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 ### 👤SEMIN KANG
 <a href="https://www.instagram.com/smiwadler/"><img src="https://img.shields.io/badge/INSTA-smiwadler-pink"/></a>
-<img src = "https://img.shields.io/badge/VELOG-seeminglly-purple"/>
+<a href = "https://velog.io/@seeminglly"><img src = "https://img.shields.io/badge/VELOG-seeminglly-purple"/>
 
 
   
